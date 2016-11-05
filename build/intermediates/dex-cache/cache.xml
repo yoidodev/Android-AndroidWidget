@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_11ec2a81badfac3ba0d332be8cca915a0867b9f3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3f264f2eac57d88bf340a3728eb04712d7f9ead1">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_26e005441db97e6207a84d6bd3a3173f5450ae39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="849cf2ba144dae6a2b64fea32b80200e32a20bde">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_93ff50ec3603b9a6100ea354bd1bc6b818386b67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_4e71c20c9d8e79c55c08a4b6eb93dc9a088f93f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_0eee11d28e092dc36ecdc343611a072a99ff2dc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_2134f2b56a264c965f01762f8bc19c22769426da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_643e088d6e7d7ea867968012210c977e534dde08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/BangDaewoon/Desktop/Yoidodev/AndroidWidget/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_303944c5a58fe24b4a8d1f9a479727b46d4af924/classes.dex" />
+    </item>
+
+</items>
